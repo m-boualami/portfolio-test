@@ -1,5 +1,21 @@
 title: Myriam Boualami
 author: Myriam Boualami
+
+# ↓ AJOUTEZ ICI ↓
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+    
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "post"
+      comments: false
+# ↑ FIN DE L'AJOUT ↑
+
 url: "https://m-boualami.github.io"  # ← CORRIGÉ ICI, avec guillemets
 baseurl: "/portfolio-test"           # ← AJOUTÉ, très important !
 description: | # description of the site (multiple lines allowed)
