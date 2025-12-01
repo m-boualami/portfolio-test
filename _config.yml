@@ -1,6 +1,6 @@
-title: "Votre Nom - Portfolio"
-baseurl: "/portfolio"  # IMPORTANT pour les sous-pages
-url: "https://m-boualami.github.io"
+title: Moonwalk
+author: Abhinav Saxena
+url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
   Myriam Boualami's personal portfolio
 
