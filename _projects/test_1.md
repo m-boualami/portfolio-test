@@ -1,7 +1,9 @@
 ---
 layout: post
 author: Myriam Boualami
-tags: [overview, moonwalk]
+title : "Test n°1"
+permalink: /test_1/
+tags: [trial, fool]
 ---
 
 # TEST 1
