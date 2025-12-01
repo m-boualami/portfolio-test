@@ -5,6 +5,7 @@ baseurl: "/portfolio-test"           # ← AJOUTÉ, très important !
 description: > # description of the site (multiple lines allowed)
   Welcome! 
   I am a mixed-methods researcher working at the intersection of data science and economic geography. 
+  
   Most of my work focuses on the platformisation and datafication of the economy, and is grounded in collaborative projects with the tech industry, such as the streaming-giant Deezer. I have shared my results and recommendations in diverse avenues, from academic conferences to industry panels.
 
 permalink: /:slug
