@@ -1,6 +1,7 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: Personal Portfolio
+author: Myriam Boualami
+url: "https://m-boualami.github.io"  # ← CORRIGÉ ICI, avec guillemets
+baseurl: "/portfolio-test"           # ← AJOUTÉ, très important !
 description: > # description of the site (multiple lines allowed)
   Myriam Boualami's personal portfolio
 
@@ -16,7 +17,7 @@ twitter:
 remote_theme: abhinavs/moonwalk
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance: "light" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "home.." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
