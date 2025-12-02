@@ -6,24 +6,15 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
-    
-defaults:
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "post"
-      comments: false
 # ↑ FIN DE L'AJOUT ↑
 
-url: "https://m-boualami.github.io"  # ← CORRIGÉ ICI, avec guillemets
-baseurl: "/portfolio-test"           # ← AJOUTÉ, très important !
+baseurl: ""  # Vide
+url: "https://m-boualami.github.io/portfolio-test"  # Tout dans l'URL
 description: | # description of the site (multiple lines allowed)
-  Welcome! 
-  
-  I am a mixed-methods researcher working at the intersection of data science and economic geography. 
-  
-  Most of my work focuses on the platformisation and datafication of the economy, and is grounded in collaborative projects with the tech industry, such as the streaming-giant Deezer. I have shared my results and recommendations in diverse avenues, from academic conferences to industry panels.
+  <p>Welcome!</p>
+  <p>I am a mixed-methods researcher working at the intersection of data science and economic geography.</p>
+  <p>Most of my work focuses on the platformisation and datafication of the economy, and is grounded in collaborative projects with the tech industry, such as the streaming-giant Deezer. 
+  I have shared my results and recommendations in diverse avenues, from academic conferences to industry panels.</p>
 
 permalink: /:slug
 
