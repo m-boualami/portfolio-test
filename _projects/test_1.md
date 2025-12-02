@@ -8,83 +8,42 @@ tags: [trial, fool]
 
 # TEST 1
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+# To be successfull in a digitised world
 
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
+*This research was translated into a [roundtable](https://www.lestrans.com/musiques-et-societes/#/detail/rap-et-territoires){:target="_blank"}, fostering a dialogue between diverse industry stakeholders and providing a data-driven framework to address sector-wide challenges.*
 
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
+With the rise of digital platforms, the barriers to publishing music have never been lower, and in principle, the path to success has been democratised: any artist can share their work online, and any listener, anywhere, can discover it. Yet the music industry has long been structured by gatekeeping, where success depended on being in the right place and knowing the right people. Has digitisation truly dissolved these barriers, or do geography and social ties still matter? 
 
-## Lists
+This project takes the “death of distance” hypothesis and applies it to music, asking whether digitisation has truly dissolved spatial hierarchies. We uncover an intriguing contradiction : a simultaneous process of **centralisation and decentralisation** in music scenes. The Paris region, the French music industry's historic hub, remains more influential than ever. At the same time, rural regions that historically struggled to produce notable acts are now finally generating successful artists, often at levels proportional to their population. This emergence of talent from previously underrepresented areas highlights a **new geographical diversification of success** in the French music scene. The main losers of this dual movement are intermediate scenes, large cities outside Paris that historically competed with the capital and now struggle to achieve the same level of success. 
 
-Unordered:
+<p align="center">
+<a href="https://raw.githubusercontent.com/m-boualami/m-boualami.github.io/refs/heads/master/assets/images/carto.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/m-boualami/m-boualami.github.io/refs/heads/master/assets/images/carto.png" width="300"/>
+</a>
+</p>
+<p align="center">
+  <em>click to expand</em>
+</p>
 
-- Fusce non velit cursus ligula mattis convallis vel at metus[^2].
-- Sed pharetra tellus massa, non elementum eros vulputate non.
-- Suspendisse potenti.
+<p align="center">
+  <em>reader's note : hot-spots and cold-spots of successful rap artists in France</em>
+</p>
 
-Ordered:
+Moreover, we examined how artists’ embeddedness in their regional scene (i.e, the degree to which their social network is locally concentrated) relates to the longevity of their success. We found that artists in the Paris region tend to exhibit a high degree of localness, whereas most other regions show little to none. The main exception is the Provence-Alpes-Côte d'Azur region, historically France’s second rap hub : artists with highly local networks were more likely to lose their audience, while those whose networks were oriented toward Paris tended to continue growing. This suggests that, even with the geographical decentralization of success, **connections to Paris remain crucial**.
 
-1. Quisque arcu felis, laoreet vel accumsan sit amet, fermentum at nunc.
-2. Sed massa quam, auctor in eros quis, porttitor tincidunt orci.
-3. Nulla convallis id sapien ornare viverra.
-4. Nam a est eget ligula pellentesque posuere.
+<p align="center">
+<a href="https://raw.githubusercontent.com/m-boualami/m-boualami.github.io/refs/heads/master/assets/images/collab_prox.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/m-boualami/m-boualami.github.io/refs/heads/master/assets/images/collab_prox.png" width="300"/>
+</a>
+</p>
+<p align="center">
+  <em>click to expand</em>
+</p>
 
-## Blockquote
+<p align="center">
+  <em>reader's note : relation between localness of social network and type of long-term success (1=local)</em>
+</p>
 
-The following is a blockquote:
+This project is one of the first to empirically investigate, at a very fine-grained level, the “death of distance” hypothesis in France, bringing together two seemingly opposing perspectives that, as the results show, are not actually contradictory.
 
-> Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
-
-## Thematic breaks (<hr>)
-
-Mauris viverra dictum ultricies[^3]. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **You can put some text inside the horizontal rule like so.**
-
----
-{: data-content="hr with text"}
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. **Or you can just have an clean horizontal rule.**
-
----
-
-Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod. Or you can just have an clean horizontal rule.
-
-## Code
-
-Now some code:
-
-```
-const ultimateTruth = 'follow middlepath';
-console.log(ultimateTruth);
-```
-
-And here is some `inline code`!
-
-## Tables
-
-Now a table:
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-## Images
-
-![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
-
-This is an image[^4]
-
----
-{: data-content="footnotes"}
-
-[^1]: this is a footnote. You should reach here if you click on the corresponding superscript number.
-[^2]: hey there, don't forget to read all the footnotes!
-[^3]: this is another footnote.
-[^4]: this is a very very long footnote to test if a very very long footnote brings some problems or not; hope that there are no problems but you know sometimes problems arise from nowhere.
-
+[Open-access print (to be published in november 2025)](https://cnmlab.fr/publications/){:target="_blank"}
