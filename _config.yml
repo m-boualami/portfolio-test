@@ -6,6 +6,14 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "post"
+      comments: false
 # ↑ FIN DE L'AJOUT ↑
 
 baseurl: ""  # Vide
